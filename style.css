@@ -1,0 +1,72 @@
+body {
+
+    background: url('./assets/background.jpg') no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    font-family:Arial, Helvetica, sans-serif
+    margin: 0px;
+    padding: 0px;
+    color: white;
+}
+
+h1, h2 {
+    color:white;
+}
+
+.restaurants {
+    margin: 106px 80px;
+    padding: 75px;
+    width: 33%;
+}
+
+
+.btn {
+    font-family:Arial, Helvetica, sans-serif
+    border-radius: 10px;
+    font-size: 20px;
+    float: left;
+    background-color: #555555;
+    border: 2px solid rgb(255, 255, 255);
+    color:white;  
+}
+
+.btn:hover {
+    background-color: rgb(25, 248, 4);
+}
+
+.container {
+    border: 2px solid rgb(255, 255, 255);
+    margin: 106px 80px;
+    padding: 75px;
+    width: 33%;
+    border-radius: 28px;    
+}
+
+.form-group input {
+    font-family:Arial, Helvetica, sans-serif
+    text-align: center;
+    display: block;
+    width: 508px;
+    padding: 1px;
+    border: 2px solid black;
+    margin: 11px auto;
+    font-size: 25px;
+    border-radius: 8px;
+}
+
+.container h1 {
+    text-align: left;
+}
+
+.container button {
+    display: block;
+    width: 74%;
+    margin: 20px auto;
+}
+
+.card {
+    padding: 100px;
+}
+
